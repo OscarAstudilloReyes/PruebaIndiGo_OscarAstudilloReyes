@@ -112,6 +112,11 @@ VALUES
 
 ## Uso del Sistema
 
+### Inicio de sesion
+
+1. usuario: admin
+2. contraseña:  1234 o cualquier valor
+
 ### Gestión de Productos
 1. Abrir **FrmCrud** desde el menú principal
 2. **Agregar**: Completar código y nombre → "Guardar"
