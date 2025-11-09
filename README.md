@@ -57,7 +57,7 @@ PruebaTecnicaIndiGO/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/OscarAstudilloReyes/PruebaIndiGo_OscarAstudilloReyes.git
    cd PruebaTecnicaIndiGO
    ```
 
